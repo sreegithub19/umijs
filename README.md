@@ -24,6 +24,6 @@ To run the app:
 - yarn run start
 
 
-- Git: git add . && git commit -m "C" && git push origin main
+- Git: git add . && git commit -m "C"  --no-verify && git push origin main
 - Vercel: vercel --prod  (this step is not required)
 ```
