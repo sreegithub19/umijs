@@ -18,4 +18,12 @@ To get started with UmiJS deployed with Vercel, you can use the [Umi CLI](https:
 
 ```shell
 $ yarn create umi app-name
+
+To run the app:
+- yarn install
+- yarn run start
+
+
+- Git: git add . && git commit -m "C" && git push origin main
+- Vercel: vercel --prod  (this step is not required)
 ```
